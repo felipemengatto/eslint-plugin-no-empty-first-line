@@ -3,13 +3,13 @@
 [pt-BR] - 🚫 ESLint plugin que impede arquivos de começarem com uma linha em branco.
 [en] - 🚫 ESLint plugin that prevents files from starting with an empty line.
 
-## Instalação
+## Install
 
 ```bash
 yarn add -D eslint-plugin-no-empty-first-line
 ```
 
-## Uso
+## Use in eslintrc file
 
 ```js
 // .eslintrc.js
