@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-no-empty-first-line",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "newline",
+    "rules"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=7.0.0"
+  }
+}
