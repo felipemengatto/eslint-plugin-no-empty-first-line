@@ -1,6 +1,7 @@
 # eslint-plugin-no-empty-first-line
 
-🚫 ESLint plugin que impede arquivos de começarem com uma linha em branco.
+[pt-BR] - 🚫 ESLint plugin que impede arquivos de começarem com uma linha em branco.
+[en] - 🚫 ESLint plugin that prevents files from starting with an empty line.
 
 ## Instalação
 
