@@ -2,16 +2,22 @@
   "name": "eslint-plugin-no-empty-first-line",
   "version": "1.0.3",
   "main": "lib/index.js",
+  "scripts": {
+    "test": "node tests/no-empty-first-line.test.js"
+  },
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin",
     "newline",
-    "rules"
+    "rules",
+    "no-empty-first-line",
+    "no empty first line",
+    "no empty line"
   ],
-  "author": "Seu Nome",
+  "author": "Felipe Mengatto",
   "license": "MIT",
-  "peerDependencies": {
-    "eslint": ">=7.0.0"
+  "devDependencies": {
+    "eslint": "^9.25.0"
   }
 }
