@@ -1,6 +1,6 @@
 const { RuleTester } = require('eslint')
 
-const rule = require('../lib/index.js').rules['no-empty-first-line']
+const rule = require('../lib/index.js').rules['validate']
 
 const ruleTester = new RuleTester({
   languageOptions: {

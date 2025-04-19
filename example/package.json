@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^8.57.1",
+    "eslint": "^8.57.1",
+    "globals": "^16.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-no-empty-first-line": "file:.."
+  }
+}

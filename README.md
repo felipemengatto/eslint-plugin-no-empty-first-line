@@ -16,7 +16,7 @@ yarn add -D eslint-plugin-no-empty-first-line
 module.exports = {
   plugins: ['no-empty-first-line'],
   rules: {
-    'no-empty-first-line/no-empty-first-line': 'error',
-  },
-};
+    'no-empty-first-line/validate': 'error'
+  }
+}
 ```
